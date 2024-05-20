@@ -1,0 +1,17 @@
+name: Starter Workflow Template for Org Users
+
+on:
+ push:
+  branches:
+   [ $default-branch ]
+
+jobs:
+ build:
+  runs-on: ubuntu-latest
+  
+  steps:
+  - name: Code Checkout
+    uses: actions/checkout@v4
+
+  - name: Run a oneline script
+    run: echo "Hello Org User"
