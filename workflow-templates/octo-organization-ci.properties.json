@@ -2,7 +2,6 @@
     "name": "Octo Organization Workflow",
     "description": "Octo Organization CI starter workflow.",
     "iconName": "octicon heart-fill",
-    "creater": "AdithyaMedaCan"
     "categories": [
         "Go"
     ],
