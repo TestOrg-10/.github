@@ -3,4 +3,9 @@
   "description": "TestOrg-10 Starter Workflow"
   "iconName": "octicon heart-fill"
   "creater": "AdithyaMedaCan"
+  "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
 }
