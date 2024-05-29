@@ -1,4 +1,4 @@
-name: Octo Organization CI
+name: Aditech Workflow
 
 on:
   push:
