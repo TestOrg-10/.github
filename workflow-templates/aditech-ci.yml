@@ -1,4 +1,4 @@
-name: Starter Workflow Template for Org Users
+name: aditech-ci workflow
 
 on:
  push:
